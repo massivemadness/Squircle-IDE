@@ -15,6 +15,6 @@
   ~ limitations under the License.
   -->
 <resources>
-    <string name="label_changelog">Novidades</string>
-    <string name="label_latest_release">Versão mais recente</string>
+    <string name="label_changelog">ලොගය වෙනස් කරන්න</string>
+    <string name="label_latest_release">නව බෙදාහැරීම</string>
 </resources>

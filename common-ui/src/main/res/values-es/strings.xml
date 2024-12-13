@@ -15,6 +15,9 @@
   ~ limitations under the License.
   -->
 <resources>
-    <string name="label_changelog">Novidades</string>
-    <string name="label_latest_release">Versão mais recente</string>
+    <string name="common_error_occurred">Se ha producido un error</string>
+    <string name="common_no_result">Sin resultados</string>
+    <string name="common_save">Guardado</string>
+    <string name="common_delete">Suprimir</string>
+    <string name="common_continue">Seguir</string>
 </resources>

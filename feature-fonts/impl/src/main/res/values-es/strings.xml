@@ -15,6 +15,9 @@
   ~ limitations under the License.
   -->
 <resources>
-    <string name="label_changelog">Novidades</string>
-    <string name="label_latest_release">Versão mais recente</string>
+    <string name="label_fonts">Tipos de letra</string>
+    <string name="action_select">Seleccionar</string>
+    <string name="message_selected">Seleccionado «%1$s»</string>
+    <string name="message_new_font_available">Ninguna fuente disponible</string>
+    <string name="message_font_removed">Fuente «%1$s» eliminada</string>
 </resources>

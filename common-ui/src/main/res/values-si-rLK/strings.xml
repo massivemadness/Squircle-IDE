@@ -15,6 +15,9 @@
   ~ limitations under the License.
   -->
 <resources>
-    <string name="label_changelog">Novidades</string>
-    <string name="label_latest_release">Versão mais recente</string>
+    <string name="common_error_occurred">දෝෂයක් සිදු විය</string>
+    <string name="common_no_result">ප්‍රතිඵල නොමැත</string>
+    <string name="common_save">සුරකින්න</string>
+    <string name="common_delete">මකන්න</string>
+    <string name="common_continue">ඉදිරියට</string>
 </resources>
